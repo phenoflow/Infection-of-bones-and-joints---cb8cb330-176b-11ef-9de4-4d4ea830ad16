@@ -1,0 +1,30 @@
+potentialCases:
+  class: File
+  path: replaceMe.csv
+inputModule1:
+  class: File
+  path: python/read-potential-cases.py
+inputModule2:
+  class: File
+  path: python/infection-of-bones-and-joints---secondary.py
+inputModule3:
+  class: File
+  path: python/infection-of-bones-and-joints-osteomyelitis---secondary.py
+inputModule4:
+  class: File
+  path: python/parasitic-infection-of-bones-and-joints---secondary.py
+inputModule5:
+  class: File
+  path: python/other-infection-of-bones-and-joints---secondary.py
+inputModule6:
+  class: File
+  path: python/infection-of-bones-and-joints-spondylitis---secondary.py
+inputModule7:
+  class: File
+  path: python/spondylopathy-infection-of-bones-and-joints---secondary.py
+inputModule8:
+  class: File
+  path: python/infection-of-bones-and-joints-tuberculosis---secondary.py
+inputModule9:
+  class: File
+  path: python/output-cases.py
